@@ -1,0 +1,49 @@
+body {
+    background-color: #212529;
+    color: #fff;
+  }
+  .media {
+    background-color: #343a40;
+    border-radius: 0.25rem;
+    margin-bottom: 1rem;
+    padding: 1rem;
+  }
+  .media-body {
+    display: flex;
+    flex-direction: column;
+  }
+  .Show-name {
+    font-size: 1.25rem;
+    font-weight: 500;
+    margin-bottom: 0.5rem;
+  }
+  .Show-summary {
+    font-size: 0.875rem;
+    margin-bottom: 1rem;
+  }
+  .Show-buttons {
+    margin-top: auto;
+  }
+  .modal-header {
+    background-color: #343a40;
+    color: #fff;
+  }
+  .modal-title {
+    color: #fff;
+  }
+  .modal-body {
+    background-color: #343a40;
+    color: #fff;
+  }
+  .modal-content {
+    background-color: #212529;
+    color: #fff;
+  }
+  .modal-content a {
+    color: #007bff;
+  }
+
+  .modal {
+    z-index: 1050;
+  }
+  
